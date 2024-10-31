@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.user {
+  border: solid 1px white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.post {
+  border: solid 1px white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
